@@ -1,0 +1,15 @@
+.form {
+    background-color: aqua;
+    width: 30%;
+    height: 200px;
+}
+.div {
+    display: flex;
+    justify-content: center;
+}
+.input {
+    margin-top: 20px;
+}
+.lable {
+    margin-left: 20px;
+}
